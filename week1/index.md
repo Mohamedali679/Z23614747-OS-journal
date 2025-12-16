@@ -45,7 +45,7 @@ The virtual machine will be configured with two network adapters in VirtualBox:
 - **Host-only adapter** – This will create a private network between the Windows workstation and the Ubuntu server, allowing SSH access.
 
 The host-only network usually uses an IP range such as `192.168.56.0/24`.  
-Once the server is installed, I will find its IP address using the `ip addr` command and use that address to connect via SSH.
+Once the server is installed, I will find its IP address using the `ip address`command and use that address to connect via SSH.
 ---
 
 ## Planned System Information Commands
