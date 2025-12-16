@@ -44,5 +44,4 @@ week4/index.md
 week5/index.md
 week6/index.md
 week7/index.md
-assets/       ← screenshots and diagrams (optional)
-scripts/      ← bash scripts (Week 5 onwards)
+
